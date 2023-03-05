@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "debug.h": "c",
+        "list.h": "c",
+        "string.h": "c",
+        "vaddr.h": "c"
+    }
+}
